@@ -1,11 +1,11 @@
-<h1 align="center">Competitive</h1>
+<p align="center" style="font-weight: bold; font-size: larger">Competitive</p>
 <p align="center">A containerized competitive programming environment</p>
 
 <hr>
 
 # Getting Started
 
-> [!info]
+> [!NOTE]
 >
 > This guide is for VSCode! However, the repository also supports IDEs with support for Dev Containers.
 
