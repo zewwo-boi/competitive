@@ -1,0 +1,9 @@
+{
+  "recommendations": [
+    "llvm-vs-code-extensions.vscode-clangd",
+    "ms-azuretools.vscode-docker",
+    "ms-vscode-remote.remote-containers",
+    "xaver.clang-format",
+    "formulahendry.code-runner"
+  ]
+}
